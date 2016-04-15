@@ -1,0 +1,178 @@
+body,html{margin:0px; padding:0px; color:#A0A0A4; font-family:Arial, Helvetica, sans-serif;}
+/*li {background:url(images/circle_dot.jpg) no-repeat left; list-style-image:url(images/circle_dot.jpg); list-style:none;}*/
+a.active{color:#FFFFFF;}
+sup {font-size:65%;}  
+.wrapper {background:#09080b; margin:auto; padding:0px; width:1024px; height:768px;}
+.centurion {float:right; margin-right:50px; margin-top:550px; }
+.centurion_about {width:400px; height:40px; padding:35px 0px 0px 35px; font-size:22px;} 
+.centurion_about_2 {width:400px; height:40px; padding:57px 0px 0px 35px; float:left;}
+.left {width:250px; height:350px; margin:150px 50px 0px 100px; float:left;}
+.right {width:433px;  height:350px; margin-top:150px; float:left; margin-left:65px; font-family:Arial; font-size:22px; color:#A0A0A4; line-height:26px; }
+.welcome { margin-top:30px; font-size:14px; line-height:16px; margin:52px 0px 0px 0px;}
+p{font-family:arial; font-size: 14px;line-height:16px ;margin: 10px 0px 0px 0px;}
+.icon {width:450px; height:100px; margin-top:50px; }
+.icon ul{margin:0px; padding:0px;}
+.icon li { display:inline; width:100px; height:150px; margin:20px 20px 20px 0px; }
+<!--travel-->
+.top_icon {width:350px; height:100px; float:left; }
+.top_icon ul{margin:0px; padding:0px; padding-top:50px;}
+.top_icon li { display:inline; width:100px; height:100px; margin:20px 30px 20px 0px;  }
+.left_menu_travel {width:200px; height:400px; margin:50px 25px 0px 40px; float:left;  }
+.left_menu_travel ul {margin:0px; padding:0px;}
+.left_menu_travel li { list-style:none; padding:0px 0px 27px 0px; width:199px; text-align:left; line-height:22px; font-size:16px; background:url(images/circle_dot.jpg) no-repeat padding:0px 20px 0px 5px;}
+.left_menu_travel a { color:#A0A0A4; text-decoration:none; }
+
+.left_menu_travel_2 {width:330px; height:400px; margin:33px 0px 0px 40px; float:left;  }
+.left_menu_travel_2 ul {margin:0px; padding:0px;}
+.left_menu_travel_2 li { list-style:none; width:332px; font-size:14px; background:url(images/circle_dot.jpg) no-repeat left top; margin: 23px 0px; padding: 0px 10px; line-height:17px;  }
+.left_menu_travel_2 a{ color:#A0A0A4; text-decoration:none;}
+.entles {margin-top:130px;}
+
+.left_menu_lounge {width:200px; height:400px; margin:37px 0px 0px 56px; float:left;  }
+.left_menu_lounge ul {margin:0px; padding:0px;}
+.left_menu_lounge li { list-style:none; width:332px; font-size:15px; margin: 23px 0px; padding: 0px 10px; line-height:22px;  }
+.left_menu_lounge a{ color:#A0A0A4; text-decoration:none;}
+.left_menu_lounge a.active{color:#FFFFFF;}
+
+
+.hitson {width:350px; height:30px; padding:100px 0px 50px 50px; }
+.complimentary {width:300px; height:auto; margin-left:50px; float:left;}
+.a_secret { margin-top:50px; height:30px; font-size:30px; margin-bottom:17px;}
+.a_secret_head { margin-top:50px; height:30px; font-size:30px; margin-bottom:17px; width:700px;}
+.a_secret_2 { margin-top:64px; height:30px; font-size:30px; margin-bottom:17px;}
+.a_secret_lounge { margin-top:60px; height:30px; font-size:30px; margin-bottom:18px;}
+.a_secret_lounge_1 { margin-top:39px; height:30px; font-size:30px; margin-bottom:20px;}
+.right_images { margin:59px 0px 50px 13px; float:left;}
+
+.wram { padding:30px 0px 0px 453px; font-size:30px; line-height:36px;}
+.clear {clear:both;}
+.an_event {width:720px; height:100px; float:right !important; font-family:Arial; font-size:30px; line-height:36px;  margin-right:75px; text-align:right;}
+.next {width:320px; height:auto; float:left; line-height:20px; font-size:12px; }
+.next_slider {width:550px; height:auto; float:left; line-height:20px; font-size:12px; }
+
+.next_popup {width:320px; height:auto; float:left; line-height:20px; font-size:12px; margin-top:-3px; }
+
+.airline {width:248px; height:auto; float:left; line-height:20px; font-size:12px; }
+.airline2 {width:299px; height:auto; float:left; line-height:20px; font-size:12px; }
+
+.lounge {width:322px; height:auto; float:left; line-height:20px; font-size:12px; }
+
+
+.nav {margin:0px; padding:0px; }
+.men {width:200px;  margin-left:71px; float: left;}
+.men2 {width:200px;  margin-left:38px; float: left;}
+.oberoi_img {width:200px;  margin-left:30px; float: left;}
+
+.men_2 {width:200px;  margin-left:27px; float: left;}
+.men_3 {width:200px;  margin-left:10px; float: left;}
+.men_4 {width:200px;  margin-left:10px; float: left; margin-top:-54px;}
+.men_img{width:200px;  margin-top:-50px; margin-left:480px; position:absolute; }
+.men_img_3{width:200px; margin-left:508px; position:absolute; margin-top:-10px; }
+.men_img_service{width:200px; margin-left:440px; position:absolute; margin-top:-198px; }
+.travels_img{width:200px;  margin-top:0px; margin-left:440px; position:absolute; }
+.travels_img_2{width:200px;  margin-top:-3px; margin-left:508px; position:absolute; }
+
+.travel_inner_img {width:200px;  margin-top:0px; margin-left:320px; position:absolute; }
+
+
+.h1 {font-size:30px; font-family:Arial; line-height:30px !important; line-height:34px !important;}
+.matter {font-size:12px; line-height:20px; margin:0px;}
+.matter_2 {font-size:12px; line-height:20px; margin:0px; width:300px; float:left;}
+.matter_3 {font-size:12px; line-height:20px; margin:0px; width:290px; float:left; margin:-10px 0px 20px 0px;}
+.matter_4 {font-size:12px; line-height:20px; margin:0px; width:290px; float:left; margin:0px 0px 5px 0px;}
+
+
+.private_jet_text{font-size:12px; line-height:20px; margin:0px 0px 10px 0px; }
+
+.centurion_text{font-size:12px; line-height:20px; margin:0px 0px 13px 0px; }
+.text_9 {font-size:9px; line-height:12px;}
+
+.lounge_menu { width:727px; height:200px; float:right; margin-right:47px; margin-top:-15px;}
+.lounge_menu ul{ margin:0px; padding:0px;}
+.lounge_menu li{ list-style:none; height:20px; font-size:15px; color:#a1a1a4; float:left; background:url(images/circle_dot.jpg) no-repeat;  margin-top: 16px; padding: 4px 10px; width: 334px; }
+.lounge_menu a{ color:#a1a1a4; text-decoration:none;}
+.lounge_head { margin-top:53px; height:20px; font-size:20px; margin-bottom:20px;}
+
+.menu { width:150px; height:auto; margin-top: -13px;}
+.menu ul{ margin:0px; padding:0px;}
+.menu li{ list-style:none; padding:0px 0px 0px 0px; font-size:13px; color:#a1a1a4; width:300px;  background:url(images/circle_dot.jpg) no-repeat;  margin-top: 3px; padding: 0px 9px; }
+.menu a{ color:#a1a1a4; text-decoration:none; }
+
+.menu_2 { width:150px; height:auto;}
+.menu_2 ul{ margin:0px; padding:0px;}
+.menu_2 li{ list-style:none; padding:0px 0px 0px 0px; font-size:13px; color:#a1a1a4; width:300px;  background:url(images/circle_dot.jpg) no-repeat;  margin-top: 3px; padding: 0px 9px; }
+.menu_2 a{ color:#a1a1a4; text-decoration:none; }
+
+.left_menu { height:auto; float:left; margin-top:-8px;}
+.left_menu ul{ margin:0px; padding:0px;}
+.left_menu li{ list-style:none; font-size:12px; color:#a1a1a4; width:285px;  background:url(images/circle_dot.jpg) no-repeat;  padding: 0px 13px; line-height:21px; }
+.left_menu a{ color:#a1a1a4; text-decoration:none; }
+
+.cathay_left_menu { height:auto; float:left; margin-top:-8px;}
+.cathay_left_menu ul{ margin:0px; padding:0px;}
+.cathay_left_menu li{ list-style:none; font-size:12px; color:#a1a1a4; width:285px;  background:url(images/circle_dot.jpg) no-repeat;  padding: 0px 13px; line-height:21px; }
+.cathay_left_menu a{ color:#a1a1a4; text-decoration:none; }
+
+.left_menu_carlson { height:auto; float:left; margin-top:-8px;}
+.left_menu_carlson ul{ margin:0px; padding:0px;}
+.left_menu_carlson li{ list-style:none; font-size:12px; color:#a1a1a4; width:305px;  background:url(images/circle_dot.jpg) no-repeat;  padding: 0px 13px; line-height:21px; }
+.left_menu_carlson a{ color:#a1a1a4; text-decoration:none; }
+
+.hotel_menu { width:625px; height:200px; float:right; margin:-10px 148px 15px 0px; }
+.hotel_menu ul{ margin:0px; padding:0px;}
+.hotel_menu li{ list-style:none; width:400px; height:20px; font-size:17px; color:#a1a1a4;  padding-top:20px; line-height:15px; background:url(images/circle_dot.jpg) no-repeat;  margin-top: 16px; padding: 4px 14px;  }
+.hotel_menu a{ color:#a1a1a4; text-decoration:none;}
+
+.centurion_menu { width:150px; height:auto; margin-top:-15px;}
+.centurion_menu ul{ margin:0px; padding:0px;}
+.centurion_menu li{ list-style:none; padding:0px 0px 0px 0px; font-size:13px; color:#a1a1a4; width:264px;  }
+.centurion_menu a{ color:#a1a1a4; text-decoration:none; }
+
+.popup{ width:1024px; height:768px;display: none;background: #09080b;position: absolute;top: 0px;}
+.travel_elite_hiton{list-style: circle;}
+
+.top {width:100%; height:20px;}
+.hilton {width:900px; height:520px;  margin:auto;}
+.header {font-size:30px; font-family:Arial; line-height:30px !important; line-height:34px !important; margin-bottom:40px; }
+.hilton_img {float:left; margin-left:26px;}
+.fotter_text {font-size:10px; color:#A0A0A4;width: 432px; margin: 20px 0px 0px 59px;  line-height:15px;}
+
+.centurion_lounge_2 { padding:50px 0px 0px 60px; }
+.left_menu_travel{width:185px; height:auto;}
+.left_menu_travel ul{ margin:0px; padding:0px;}
+.left_menu_travel li { font-size:16px;}
+.centurion_lounge_2 { width:200px; float:none;}
+
+.hotel_fotter {font-size:10px; width:346px; margin-left:260px; line-height:11px; float:left;}
+.hotel_fotter_1 {font-size:10px; width:346px; margin-top:30px; line-height:11px; float:left;}
+
+.oberoi {background:none; margin-left:7px; line-height:20px;}
+
+.close {float:right; margin:30px 80px 0px 0px;}
+.histnon_close {float:right; margin:30px 66px 0px 0px;}
+.hotels_close_3 {float:right; margin:30px 66px 0px 0px;}
+.private_jet_2 {float:right; margin:64px 66px 0px 200px;}
+.peace_of_mind_close {float:right; margin:680px 66px 0px 819px; position: absolute;}
+.oberoi_close {float:right; margin:30px 107px 0px 0px;}
+
+.sub_header {font-size:20px; margin-bottom:15px; }
+
+.sub_head {font-size:16px; margin-bottom:15px; }
+.sub_head {font-size:16px; margin-bottom:15px; }
+.sub_head2 {font-size:16px; margin-bottom:0px; line-height:24px; margin-top:10px; }
+
+.matter_next {width:320px; font-size:12px; color:#A0A0A4;}
+.matter_next_3 {width:324px; font-size:12px; color:#A0A0A4;}
+.prev {float:left;display:}
+.prev img {float:right;}
+.next-a {float: right; margin-left: 664px;  margin-top: 171px;  position: absolute; }
+.next_slider-a  {float: right; margin-left: 668px; margin-top: 392px; position: absolute; }
+.next_slider_1-a  {float: right; margin-left: 607px; margin-top: 455px; position: absolute; }s
+.prev-a { margin-left: 685px;  margin-top: 200px;  position: absolute;}
+.prev_1-a { margin-left: 667px;  margin-top: 167px;  position: absolute;}
+
+.top_icon_menu {width:350px; height:50px; float:right; margin-top:-41px; margin-right:240px; }
+.top_icon_menu ul{ padding-top:-20px}
+.top_icon_menu li { display:inline; margin:20px 30px 20px 0px;  }
+
+.term_and_condition { font-size:10px; color:#a1a1a4; line-height:16px;}
